@@ -1,0 +1,14 @@
+{
+    "Example":{
+        "date" : "date",
+        "impressions": "Imps",
+        "revenue_original": "Revenue"
+    },
+    "Example_weekly":{
+        "date" : "Date",
+        "impressions": "Impressions",
+        "revenue_original": "revenue"
+    }
+
+
+}

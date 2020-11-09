@@ -1,0 +1,12 @@
+{
+  "name": "do-report-import",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://bitbucket.org/osds-product/do-report-import.git",
+  "author": "Jan Rückert <git@rueckert.io>",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-functions": "^3.8.0",
+    "stream": "^0.0.2"
+  }
+}
